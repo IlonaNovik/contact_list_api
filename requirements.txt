@@ -3,3 +3,6 @@ djangorestframework
 django-cors-headers
 django-decouple
 drf_yasg2
+django-heroku
+gunicorn
+pyjwt
